@@ -1,0 +1,36 @@
+ /*CSS styles*/
+ *{
+    padding: 0;
+    box-sizing: border-box;
+ }
+ body{
+     background-image: url("spsg.png");
+     font-family:Verdana, Geneva, Tahoma, sans-serif;
+     background-repeat: no-repeat;
+     background-size:cover;
+ }
+ #main{
+     color:red;
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     font-size: xxx-large;
+     margin-top: 100px; 
+ }
+ div span{
+     color:rgb(2, 8, 0);
+     font-size: xx-large;
+     margin:20px 20px ;
+     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+ }
+ div button{
+     color: black;
+     font-size: xx-large;
+     background-color:rgb(25, 0, 255);
+     border: none;
+     margin:5px 30px;  
+     padding:7px;
+     border-radius: 20px;
+    filter:drop-shadow(5px 10px 10px  rgb(25, 0, 255))       
+ }
+ #csr,#usr{
+     color: blue;
+ }
